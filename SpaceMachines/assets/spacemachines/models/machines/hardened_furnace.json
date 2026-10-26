@@ -1,0 +1,8 @@
+{
+  "parent": "minecraft:block/orientable",
+  "textures": {
+    "front": "spacemachines:machines/hardened_furnace_front",
+    "side": "spacemachines:machines/hardened_furnace_side",
+    "top": "spacemachines:machines/hardened_furnace_top"
+  }
+}

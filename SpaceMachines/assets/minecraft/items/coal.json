@@ -14,6 +14,30 @@
                     "type": "model",
                     "model": "spacemachines:materials/space_debris"
                 }
+            },
+            {
+                "when": {
+                    "PublicBukkitValues": {
+                        "infinityexpansion2:oscillator_target": "COAL",
+                        "slimefun:slimefun_item": "IE_OSCILLATOR_COAL"
+                    }
+                },
+                "model": {
+                    "type": "model",
+                    "model": "infinityexpansion2:tools/oscillator_coal"
+                }
+            },
+            {
+                "when": {
+                    "PublicBukkitValues": {
+                        "infinityexpansion2:oscillator_target": "COAL",
+                        "slimefun:slimefun_item": "IE_OSCILLATOR"
+                    }
+                },
+                "model": {
+                    "type": "model",
+                    "model": "infinityexpansion2:tools/oscillator_coal"
+                }
             }
         ],
         "fallback": {

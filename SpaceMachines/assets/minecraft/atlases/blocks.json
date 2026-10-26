@@ -1,6 +1,5 @@
 {
     "sources": [
-
         {
             "type": "single",
             "resource": "spacemachines:groups/materials"
@@ -19,12 +18,60 @@
         },
         {
             "type": "single",
-            "resource": "spacemachines:tools/infinite_lighter"
+            "resource": "spacemachines:menus/machine_recipe"
         },
+        {
+            "type": "single",
+            "resource": "spacemachines:menus/machine_schematic"
+        },
+
+
+        {
+            "type": "single",
+            "resource": "spacemachines:materials/space_debris"
+        },
+        {
+            "type": "single",
+            "resource": "spacemachines:materials/perfect_ice_ball"
+        },
+        {
+            "type": "single",
+            "resource": "spacemachines:materials/sulfur"
+        },
+        {
+            "type": "single",
+            "resource": "spacemachines:materials/sulfur_gaz"
+        },
+        {
+            "type": "single",
+            "resource": "spacemachines:materials/liquid_sulfur"
+        },
+        {
+            "type": "single",
+            "resource": "spacemachines:materials/harden_steel"
+        },
+
+
+        {
+            "type": "single",
+            "resource": "spacemachines:components/pure_coolant_cell"
+        },
+        {
+            "type": "single",
+            "resource": "spacemachines:components/gravity_core"
+        },
+
+
         {
             "type": "single",
             "resource": "spacemachines:tools/radiation_tool_rod"
         },
+        {
+            "type": "single",
+            "resource": "spacemachines:tools/infinite_lighter"
+        },
+
+
         {
             "type": "single",
             "resource": "spacemachines:machines/space_collector_side"
@@ -35,20 +82,35 @@
         },
         {
             "type": "single",
-            "resource": "spacemachines:components/gravity_core"
+            "resource": "spacemachines:machines/hardened_furnace_front"
         },
         {
             "type": "single",
-            "resource": "spacemachines:materials/perfect_ice_ball"
+            "resource": "spacemachines:machines/hardened_furnace_side"
         },
         {
             "type": "single",
-            "resource": "spacemachines:materials/space_debris"
+            "resource": "spacemachines:machines/hardened_furnace_top"
         },
         {
             "type": "single",
-            "resource": "spacemachines:components/pure_coolant_cell"
+            "resource": "spacemachines:machines/stabilizer"
         },
+        {
+            "type": "single",
+            "resource": "spacemachines:machines/stabilizer_front"
+        },
+        {
+            "type": "single",
+            "resource": "spacemachines:machines/stabilizer_side"
+        },
+        {
+            "type": "single",
+            "resource": "spacemachines:machines/stabilizer_top"
+        },
+
+
+
         {
             "type": "single",
             "resource": "electricspawners_v2:machines/spawner_v2"
