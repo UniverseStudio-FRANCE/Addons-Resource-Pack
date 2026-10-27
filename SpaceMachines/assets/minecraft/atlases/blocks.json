@@ -24,6 +24,14 @@
             "type": "single",
             "resource": "spacemachines:menus/machine_schematic"
         },
+        {
+            "type": "single",
+            "resource": "spacemachines:menus/machine_progress_flame"
+        },
+        {
+            "type": "single",
+            "resource": "spacemachines:menus/machine_progress_hammer"
+        },
 
 
         {
