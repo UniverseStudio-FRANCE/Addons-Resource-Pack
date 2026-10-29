@@ -7,6 +7,28 @@
             {
                 "when": {
                     "PublicBukkitValues": {
+                        "spacemachines:item": "GENERATORS_GROUP"
+                    }
+                },
+                "model": {
+                    "type": "model",
+                    "model": "spacemachines:groups/generators"
+                }
+            },
+            {
+                "when": {
+                    "PublicBukkitValues": {
+                        "spacemachines:item": "COMPONENTS_GROUP"
+                    }
+                },
+                "model": {
+                    "type": "model",
+                    "model": "spacemachines:groups/components"
+                }
+            },
+            {
+                "when": {
+                    "PublicBukkitValues": {
                         "slimefun:slimefun_item": "GRAVITY_CORE"
                     }
                 },

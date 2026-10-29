@@ -7,6 +7,17 @@
             {
                 "when": {
                     "PublicBukkitValues": {
+                        "spacemachines:item": "MACHINES_GROUP"
+                    }
+                },
+                "model": {
+                    "type": "model",
+                    "model": "spacemachines:groups/machines"
+                }
+            },
+            {
+                "when": {
+                    "PublicBukkitValues": {
                         "slimefun:slimefun_item": "SPACE_COLLECTOR"
                     }
                 },

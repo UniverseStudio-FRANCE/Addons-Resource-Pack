@@ -7,12 +7,23 @@
             {
                 "when": {
                     "PublicBukkitValues": {
-                        "slimefun:slimefun_item": "RADIATION_TOOL_ROD"
+                        "spacemachines:item": "TOOLS_GROUP"
                     }
                 },
                 "model": {
                     "type": "model",
-                    "model": "spacemachines:tools/radiation_tool_rod"
+                    "model": "spacemachines:groups/tools"
+                }
+            },
+            {
+                "when": {
+                    "PublicBukkitValues": {
+                        "slimefun:slimefun_item": "ORBITAL_WRENCH"
+                    }
+                },
+                "model": {
+                    "type": "model",
+                    "model": "spacemachines:tools/orbital_wrench"
                 }
             },
             {

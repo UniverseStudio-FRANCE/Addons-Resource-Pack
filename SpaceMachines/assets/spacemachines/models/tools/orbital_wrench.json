@@ -1,6 +1,6 @@
 {
     "parent": "item/generated",
     "textures": {
-        "layer0": "spacemachines:tools/radiation_tool_rod"
+        "layer0": "spacemachines:tools/orbital_wrench"
     }
 }

@@ -18,6 +18,20 @@
         },
         {
             "type": "single",
+            "resource": "spacemachines:groups/machines"
+        },
+        {
+            "type": "single",
+            "resource": "spacemachines:groups/machines_side"
+        },
+        {
+            "type": "single",
+            "resource": "spacemachines:groups/machines_core"
+        },
+
+
+        {
+            "type": "single",
             "resource": "spacemachines:menus/machine_recipe"
         },
         {
@@ -58,6 +72,10 @@
             "type": "single",
             "resource": "spacemachines:materials/harden_steel"
         },
+        {
+            "type": "single",
+            "resource": "spacemachines:materials/perfect_ice"
+        },
 
 
         {
@@ -72,7 +90,7 @@
 
         {
             "type": "single",
-            "resource": "spacemachines:tools/radiation_tool_rod"
+            "resource": "spacemachines:tools/orbital_wrench"
         },
         {
             "type": "single",
@@ -99,22 +117,6 @@
         {
             "type": "single",
             "resource": "spacemachines:machines/hardened_furnace_top"
-        },
-        {
-            "type": "single",
-            "resource": "spacemachines:machines/stabilizer"
-        },
-        {
-            "type": "single",
-            "resource": "spacemachines:machines/stabilizer_front"
-        },
-        {
-            "type": "single",
-            "resource": "spacemachines:machines/stabilizer_side"
-        },
-        {
-            "type": "single",
-            "resource": "spacemachines:machines/stabilizer_top"
         },
 
 

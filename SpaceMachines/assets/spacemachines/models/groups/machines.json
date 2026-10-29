@@ -1,0 +1,74 @@
+{
+    "parent": "minecraft:block/cube_all",
+    "textures": {
+        "side": "spacemachines:groups/machines_side",
+        "core": "spacemachines:groups/machines_core",
+        "particle": "spacemachines:groups/machines_side"
+    },
+    "elements": [
+        {
+            "from": [
+                0,
+                0,
+                0
+            ],
+            "to": [
+                16,
+                16,
+                16
+            ],
+            "faces": {
+                "north": {
+                    "texture": "#side"
+                },
+                "south": {
+                    "texture": "#side"
+                },
+                "east": {
+                    "texture": "#side"
+                },
+                "west": {
+                    "texture": "#side"
+                },
+                "up": {
+                    "texture": "#side"
+                },
+                "down": {
+                    "texture": "#side"
+                }
+            }
+        },
+        {
+            "from": [
+                4,
+                4,
+                4
+            ],
+            "to": [
+                12,
+                12,
+                12
+            ],
+            "faces": {
+                "north": {
+                    "texture": "#core"
+                },
+                "south": {
+                    "texture": "#core"
+                },
+                "east": {
+                    "texture": "#core"
+                },
+                "west": {
+                    "texture": "#core"
+                },
+                "up": {
+                    "texture": "#core"
+                },
+                "down": {
+                    "texture": "#core"
+                }
+            }
+        }
+    ]
+}
